@@ -1,6 +1,6 @@
 # DL-pytorch
 
-2020年Datawhale组织、伯禹教育、和鲸社区合作组织的一起学习《动手学深度学习》笔记
+2020年Datawhale组织、伯禹教育、和鲸社区合作组织的一起学习《动手学深度学习》
 
 1. [学员手册](https://shimo.im/docs/pdr3wkyHKrxJYdyT/read)
 2. 微信群组：公益AI组队学习1群：114-妇联特工队-王荣胜
