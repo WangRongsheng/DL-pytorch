@@ -20,8 +20,8 @@
 
 ### Task one【完成】
 
-- 1.线性回归
-- 2.Softmax与分类模型
-- 3.多层感知机
+- 1.[线性回归](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/1.线性回归)
+- 2.[Softmax与分类模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/2.Softmax与分类模型)
+- 3.[多层感知机](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/3.多层感知机)
 
 
