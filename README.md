@@ -25,3 +25,8 @@
 - 3.[多层感知机](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/3.多层感知机)
 
 
+### Task two【完成】
+
+- 4.[文本预处理](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/4.文本预处理)
+- 5.[语言模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/5.语言模型)
+- 6.[循环神经网络](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/6.循环神经网络)
