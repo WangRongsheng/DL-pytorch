@@ -35,13 +35,13 @@
 
 ### Task one【完成】
 
-- 7.[过拟合、欠拟合及其解决方案](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/1.线性回归)
-- 8.[梯度消失、梯度爆炸](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/2.Softmax与分类模型)
-- 9.[循环神经网络进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/3.多层感知机)
+- 7.[过拟合、欠拟合及其解决方案](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/7.过拟合、欠拟合及其解决方案)
+- 8.[梯度消失、梯度爆炸](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/8.梯度消失、梯度爆炸)
+- 9.[循环神经网络进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/9.循环神经网络进阶)
 
 
 ### Task two【完成】
 
-- 10.[机器翻译及相关技术](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/4.文本预处理)
-- 11.[注意力机制与Seq2seq模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/5.语言模型)
-- 12.[Transformer](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/6.循环神经网络)
+- 10.[机器翻译及相关技术](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/10.机器翻译及相关技术)
+- 11.[注意力机制与Seq2seq模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/11.注意力机制与Seq2seq模型)
+- 12.[Transformer](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/12.Transformer)
