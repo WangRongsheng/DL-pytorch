@@ -16,7 +16,7 @@
 
 - part1 2月11日 14：00 -15：30 开营介绍（1天）
 
-## 2、（视频学习）2月11日-24日
+## 2、（视频学习）2月11日-14日
 
 ### Task one【完成】
 
@@ -30,3 +30,18 @@
 - 4.[文本预处理](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/4.文本预处理)
 - 5.[语言模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/5.语言模型)
 - 6.[循环神经网络](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/6.循环神经网络)
+
+## 3、（视频学习）2月15日-17日
+
+### Task one【完成】
+
+- 7.[过拟合、欠拟合及其解决方案](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/1.线性回归)
+- 8.[梯度消失、梯度爆炸](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/2.Softmax与分类模型)
+- 9.[循环神经网络进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/3.多层感知机)
+
+
+### Task two【完成】
+
+- 10.[机器翻译及相关技术](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/4.文本预处理)
+- 11.[注意力机制与Seq2seq模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/5.语言模型)
+- 12.[Transformer](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/6.循环神经网络)
