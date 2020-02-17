@@ -42,6 +42,6 @@
 
 ### Task two【完成】
 
-- 10.[机器翻译及相关技术](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/10.机器翻译及相关技术)
-- 11.[注意力机制与Seq2seq模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/11.注意力机制与Seq2seq模型)
-- 12.[Transformer](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20two/12.Transformer)
+- 10.[机器翻译及相关技术](https://github.com/WangRongsheng/DL-pytorch/tree/master/【2.15-17】Task%20two/10.机器翻译及相关技术)
+- 11.[注意力机制与Seq2seq模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/【2.15-17】Task%20two/11.注意力机制与Seq2seq模型)
+- 12.[Transformer](https://github.com/WangRongsheng/DL-pytorch/tree/master/【2.15-17】Task%20two/12.Transformer)
