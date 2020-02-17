@@ -35,9 +35,9 @@
 
 ### Task one【完成】
 
-- 7.[过拟合、欠拟合及其解决方案](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/7.过拟合、欠拟合及其解决方案)
-- 8.[梯度消失、梯度爆炸](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/8.梯度消失、梯度爆炸)
-- 9.[循环神经网络进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.11-14%E3%80%91Task%20one/9.循环神经网络进阶)
+- 7.[过拟合、欠拟合及其解决方案](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.15-17%E3%80%91Task%20one/7.%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%81%E6%AC%A0%E6%8B%9F%E5%90%88%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+- 8.[梯度消失、梯度爆炸](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.15-17%E3%80%91Task%20one/8.梯度消失、梯度爆炸)
+- 9.[循环神经网络进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.15-17%E3%80%91Task%20one/9.循环神经网络进阶)
 
 
 ### Task two【完成】
