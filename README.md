@@ -45,3 +45,9 @@
 - 10.[机器翻译及相关技术](https://github.com/WangRongsheng/DL-pytorch/tree/master/【2.15-17】Task%20two/10.机器翻译及相关技术)
 - 11.[注意力机制与Seq2seq模型](https://github.com/WangRongsheng/DL-pytorch/tree/master/【2.15-17】Task%20two/11.注意力机制与Seq2seq模型)
 - 12.[Transformer](https://github.com/WangRongsheng/DL-pytorch/tree/master/【2.15-17】Task%20two/12.Transformer)
+
+### Task three【完成】
+
+- 13.[卷积神经网络基础](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.15-17%E3%80%91Task%20three/13.%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80)
+- 14.[LeNet](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.15-17%E3%80%91Task%20three/14.leNet)
+- 15.[卷积神经网络进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.15-17%E3%80%91Task%20three/15.卷积神经网络进阶)
