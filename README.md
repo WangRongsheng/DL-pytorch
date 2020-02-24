@@ -54,6 +54,8 @@
 
 ## 4、（视频学习）2月18日-24日
 
+### Task one-NLP和CV【完成】
+
 - 16.[批量归一化和残差网络](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-NLP_and_CV/16.%E6%89%B9%E9%87%8F%E5%BD%92%E4%B8%80%E5%8C%96%E5%92%8C%E6%AE%8B%E5%B7%AE%E7%BD%91%E7%BB%9C)
 - 17.[凸优化](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-NLP_and_CV/17.凸优化)
 - 18.[梯度下降](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-NLP_and_CV/18.梯度下降)
