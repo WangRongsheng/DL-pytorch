@@ -60,3 +60,9 @@
 - 17.[凸优化](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-NLP_and_CV/17.凸优化)
 - 18.[梯度下降](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-NLP_and_CV/18.梯度下降)
 
+### Task two-NLP【完成】
+
+- 19.[优化算法进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-NLP/19.%E4%BC%98%E5%8C%96%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6)
+- 20.[word2vec](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-NLP/20.word2vec)
+- 21.[词嵌入进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-NLP/21.词嵌入进阶)
+
