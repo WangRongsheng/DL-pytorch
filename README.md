@@ -76,5 +76,7 @@
 
 ### Task one-CV【完成】
 
-
+- 25.[目标检测基础](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-CV/25.%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E5%9F%BA%E7%A1%80)
+- 26.[图像风格迁移](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-CV/26.图像风格迁移)
+- 27.[图像分类案例1](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-CV/27.图像分类案例1)
 
