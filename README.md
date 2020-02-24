@@ -80,3 +80,9 @@
 - 26.[图像风格迁移](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-CV/26.图像风格迁移)
 - 27.[图像分类案例1](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20one-CV/27.图像分类案例1)
 
+### Task two-CV【完成】
+
+- 28.[图像分类案例2](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-CV/28.%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%A1%88%E4%BE%8B2)
+- 29.[生成对抗网络](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-CV/29.生成对抗网络)
+- 30.[DCGAN](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-CV/30.DCGAN)
+
