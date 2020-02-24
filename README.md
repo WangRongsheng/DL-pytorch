@@ -66,3 +66,11 @@
 - 20.[word2vec](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-NLP/20.word2vec)
 - 21.[词嵌入进阶](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-NLP/21.词嵌入进阶)
 
+### Task three-NLP和CV【完成】
+
+- 22.[文本分类](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20three-NLP_and_CV/22.%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
+- 23.[数据增强](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20three-NLP_and_CV/23.数据增强)
+- 24.[模型微调](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20three-NLP_and_CV/24.模型微调)
+
+> 其中的数据增强和模型微调推荐CV方向的学习者观看！
+
