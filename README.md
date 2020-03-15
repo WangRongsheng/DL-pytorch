@@ -86,3 +86,13 @@
 - 29.[生成对抗网络](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-CV/29.生成对抗网络)
 - 30.[DCGAN](https://github.com/WangRongsheng/DL-pytorch/tree/master/%E3%80%902.18-24%E3%80%91Task%20two-CV/30.DCGAN)
 
+# 5、直播回放
+
+1. [开营仪式](https://www.bilibili.com/video/av88438691)
+2. [科研专场](https://www.bilibili.com/video/av90122256)
+3. [就业专场](https://www.bilibili.com/video/av90845940)
+4. [学习专场](https://www.bilibili.com/video/av92217118)
+
+# 6、其他
+
+[结课学员手册](https://shimo.im/docs/GtHjWK93yyT6KVR8/read)
